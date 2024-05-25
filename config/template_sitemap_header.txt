@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<?xml-stylesheet type="text/xsl" href="youtube/sitemap.xsl"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>##LINK-Home##</loc>
+	<lastmod>##Date-CREATE##</lastmod>
+	<priority>1.0</priority>
+</url>
+##LINK-SITEMAP-SUBFOLDER##
+</urlset>
